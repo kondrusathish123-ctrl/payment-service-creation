@@ -1,7 +1,7 @@
 package com.dilipIT.controller;
 
 
-import com.dilipIT.NetBankingService;
+import com.dilipIT.service.NetBankingService;
 import com.dilipIT.Request.NetBankingInformation;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
